@@ -1,0 +1,6 @@
+﻿D:\report auto mation\index.html:136: <button class="nav-tab-btn active" onclick="switchTab('dashboard')"
+D:\report auto mation\index.html:138: <button class="nav-tab-btn" onclick="switchTab('workstation')" id="tab-workstation">Capstone
+D:\report auto mation\index.html:223: <button class="btn btn-primary btn-glow" onclick="switchTab('workstation')">
+D:\report auto mation\index_tabs_temp.html:39: <button class="nav-tab-btn active" onclick="switchTab('dashboard')"
+D:\report auto mation\index_tabs_temp.html:41: <button class="nav-tab-btn" onclick="switchTab('workstation')"
+D:\report auto mation\index_tabs_temp.html:120: <button class="btn btn-primary btn-glow" onclick="switchTab('workstation')">
